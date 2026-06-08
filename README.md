@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KanvirSambhi
 - 👀 I’m interested in the Software Engineering Field
-- 🌱 I’m currently learning at CalTech for a Post Graduate in Cloud Computing
+- 🌱 I currently have a Post Graduate in Cloud Computing at CalTech
 - 💞️ I’m looking to collaborate on Projects regardng AWS, Azure, and GCP
 - 📫 How to reach me: Add me on LinkedIn or message me Kanvir (Kenny) Singh Sambhi 
 - ⚡ Fun fact: I have been playing Drums and Piano for about 9 years
