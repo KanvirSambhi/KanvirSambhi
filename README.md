@@ -3,7 +3,7 @@
 - 🌱 I currently have a Post Graduate in Cloud Computing at CalTech
 - 💞️ I’m looking to collaborate on Projects regardng AWS, Azure, and GCP
 - 📫 How to reach me: Add me on LinkedIn or message me Kanvir (Kenny) Singh Sambhi 
-- ⚡ Fun fact: I have been playing Drums and Piano for about 9 years
+- ⚡ Fun fact: I have been playing Drums and Piano for about 12 years
 - 🖥️ My Favorite Coding Languages are C++ and Java because of the complexity of the languages
 
 <!---
